@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/objective-c-005571?style=flat-square&logo=objective-c&logoColor=white"/></a>&nbsp 
   <br>
-  <h3 align="center">�🖥 Main SKILL �📱</h3>
+  <h3 align="center">🖥 Main SKILL 📱</h3>
   <p align="center">
   <img src="https://img.shields.io/badge/SWIFT-6DB33F?style=flat-square&logo=SWIFT&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-DB3552?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -32,7 +32,7 @@
 <br>
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 📷 MySelf 🎧 </h3>
 <p align="center">
   <a href="https://velog.io/@calmkeen"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@calmkeen"/></a>&nbsp
   <a href="https://www.instagram.com/youn.sung__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/youn.sung__/"/></a>&nbsp
