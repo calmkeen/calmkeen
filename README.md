@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Younsung%20TecGit&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=7CD1B8&height=350&section=header&text=Younsung%20TecGit&fontSize=50&fontAlign=72&fontAlignY=35&desc=HungryCoder&descSize=25&descAlign=80&rotate=22&descAlignY=45&fontColor=F5F5F5)
 
 <!--
 **calmkeen/calmkeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
